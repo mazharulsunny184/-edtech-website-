@@ -1,13 +1,21 @@
-.carousel-item::before {
-    background: #000;
-    opacity: 0.7;
-}
-
 .navbar-nav li a {
     margin: 10px;
     font-size: 18px;
 }
 
+.cover-img {
+    position: relative;
+    opacity: .20;
+}
+
 .carousel-caption {
-    bottom: 200px;
+    position: absolute;
+    color: white;
+    height: 100%;
+    padding-top: 23%;
+
+}
+
+.carousel-item {
+    background-color: #000;
 }
