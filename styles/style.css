@@ -1,0 +1,13 @@
+.carousel-item::before {
+    background: #000;
+    opacity: 0.7;
+}
+
+.navbar-nav li a {
+    margin: 10px;
+    font-size: 18px;
+}
+
+.carousel-caption {
+    bottom: 200px;
+}
