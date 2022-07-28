@@ -19,3 +19,14 @@
 .carousel-item {
     background-color: #000;
 }
+
+.carousel-text,
+.question-text {
+    padding: 60px;
+    text-align: center;
+}
+
+.accordion {
+    margin-left: 90px;
+    margin-right: 90px;
+}
