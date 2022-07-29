@@ -26,10 +26,15 @@
     text-align: center;
 }
 
+.company-text {
+    padding-bottom: 35px;
+}
+
 
 .footer {
     background-color: #161616;
     color: white;
+    margin-top: 30px;
 }
 
 .footer p {
@@ -50,6 +55,7 @@
     color: white;
 
 
+
 }
 
 .footer .social a {
@@ -64,11 +70,4 @@
 
 .footer .social a:hover {
     opacity: 0.9;
-}
-
-
-@media only screen and (max-width:688px) {
-    .nav-btn .btn {
-        display: no;
-    }
 }
