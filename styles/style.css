@@ -26,10 +26,6 @@
     text-align: center;
 }
 
-.accordion {
-    margin-left: 90px;
-    margin-right: 90px;
-}
 
 .footer {
     background-color: #161616;
@@ -71,4 +67,8 @@
 }
 
 
-@media only screen and (max-width:576px) {}
+@media only screen and (max-width:688px) {
+    .nav-btn .btn {
+        display: no;
+    }
+}
